@@ -1,0 +1,166 @@
+[
+    {
+        "id": 1,
+        "title": "Premium Wireless Headphones",
+        "price": 299.99,
+        "description": "High-fidelity audio with active noise cancellation and 40-hour battery life.",
+        "category": "electronics",
+        "image": "https://images.pexels.com/photos/3394651/pexels-photo-3394651.jpeg",
+        "tag": "Best Seller"
+    },
+
+    {
+        "id": 2,
+        "title": "Minimalist Leather Watch",
+        "price": 150.00,
+        "description": "Elegant timepiece featuring genuine Italian leather strap and Japanese movement.",
+        "category": "accessories",
+        "image": "https://images.pexels.com/photos/277390/pexels-photo-277390.jpeg",
+        "tag": "Trending"
+    },
+
+    {
+        "id": 3,
+        "title": "Smart Home Assistant",
+        "price": 89.99,
+        "description": "Voice-controlled speaker with premium sound and smart home integration.",
+        "category": "electronics",
+        "image": "https://images.pexels.com/photos/4790264/pexels-photo-4790264.jpeg",
+        "tag": "New Arrival"
+    },
+    {
+        "id": 4,
+        "title": "Pro DSLR Camera Kit",
+        "price": 1200.00,
+        "description": "Professional grade camera with 24MP sensor and 4K video capabilities.",
+        "category": "electronics",
+        "image": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg",
+        "tag": "Popular"
+    },
+    {
+        "id": 5,
+        "title": "Urban Denim Jacket",
+        "price": 79.99,
+        "description": "Classic fit denim jacket made from sustainable organic cotton.",
+        "category": "men's clothing",
+        "image": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
+        "tag": "Sale"
+    },
+    {
+        "id": 6,
+        "title": "Silver Chain Bracelet",
+        "price": 45.50,
+        "description": "Solid 925 sterling silver bracelet with a modern polished finish.",
+        "category": "jewelery",
+        "image": "https://images.pexels.com/photos/1453008/pexels-photo-1453008.jpeg",
+        "tag": "Trending"
+    },
+    {
+        "id": 7,
+        "title": "Mechanical Gaming Keyboard",
+        "price": 129.99,
+        "description": "RGB backlit mechanical keyboard with blue switches for tactile feedback.",
+        "category": "electronics",
+        "image": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg",
+        "tag": "New"
+    },
+    {
+        "id": 8,
+        "title": "Slim Fit Cotton Chinos",
+        "price": 55.00,
+        "description": "Comfortable and stylish slim fit trousers suitable for any occasion.",
+        "category": "men's clothing",
+        "image": "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
+        "tag": "Regular"
+    },
+    {
+        "id": 9,
+        "title": "Canvas Weekend Bag",
+        "price": 110.00,
+        "description": "Spacious water-resistant canvas bag with leather handles.",
+        "category": "accessories",
+        "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg",
+        "tag": "Travel"
+    },
+    {
+        "id": 10,
+        "title": "Ultra 4K Computer Monitor",
+        "price": 499.00,
+        "description": "27-inch 4K UHD display with IPS panel and ultra-thin bezels.",
+        "category": "electronics",
+        "image": "https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg",
+        "tag": "Top Rated"
+    },
+    {
+        "id": 11,
+        "title": "Gold Plated Hoop Earrings",
+        "price": 32.00,
+        "description": "Classic 18k gold plated hoops, lightweight for all-day wear.",
+        "category": "jewelery",
+        "image": "https://images.pexels.com/photos/1927259/pexels-photo-1927259.jpeg",
+        "tag": "Best Seller"
+    },
+    {
+        "id": 12,
+        "title": "Mens Casual Hoodie",
+        "price": 42.99,
+        "description": "Soft fleece hoodie with front pocket and adjustable drawstring.",
+        "category": "men's clothing",
+        "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg",
+        "tag": "Sale"
+    },
+    {
+        "id": 13,
+        "title": "Smartphone Pro Max",
+        "price": 999.00,
+        "description": "The latest smartphone with advanced triple-lens camera system.",
+        "category": "electronics",
+        "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg",
+        "tag": "Premium"
+    },
+    {
+        "id": 14,
+        "title": "Leather Bifold Wallet",
+        "price": 35.00,
+        "description": "Handcrafted genuine leather wallet with RFID protection.",
+        "category": "accessories",
+        "image": "https://images.pexels.com/photos/915915/pexels-photo-915915.jpeg",
+        "tag": "Essential"
+    },
+    {
+        "id": 15,
+        "title": "Bluetooth Portable Speaker",
+        "price": 59.99,
+        "description": "IPX7 waterproof speaker with 360-degree surround sound.",
+        "category": "electronics",
+        "image": "https://images.pexels.com/photos/1034653/pexels-photo-1034653.jpeg",
+        "tag": "Outdoor"
+    },
+    {
+        "id": 16,
+        "title": "Stainless Steel Water Bottle",
+        "price": 25.00,
+        "description": "Vacuum insulated bottle that keeps drinks cold for 24 hours.",
+        "category": "accessories",
+        "image": "https://images.pexels.com/photos/1188647/pexels-photo-1188647.jpeg",
+        "tag": "Eco-Friendly"
+    },
+    {
+        "id": 17,
+        "title": "Retro Canvas Sneakers",
+        "price": 65.00,
+        "description": "Vintage style sneakers with high-traction rubber soles.",
+        "category": "men's clothing",
+        "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+        "tag": "Trending"
+    },
+    {
+        "id": 18,
+        "title": "Crystal Pendant Necklace",
+        "price": 85.00,
+        "description": "Elegant crystal pendant on a thin rose gold chain.",
+        "category": "jewelery",
+        "image": "https://i.ibb.co.com/whk8HmHv/b2d3db438dcb44ce5379b5c014899fd3-jpg-960x960q80-jpg.webp",
+        "tag": "Gift Idea"
+    }
+]
