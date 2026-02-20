@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import { FaFacebookF, FaGithub, FaLinkedinIn } from 'react-icons/fa';
 
-// Using 'type' as requested
+
 type ContactFormData = {
     name: string;
     email: string;
@@ -12,7 +12,7 @@ type ContactFormData = {
 };
 
 const Contactpage = () => {
-    // State management with TypeScript
+ 
     const [formData, setFormData] = useState<ContactFormData>({
         name: '',
         email: '',
