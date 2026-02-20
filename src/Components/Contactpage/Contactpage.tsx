@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState } from 'react';
+import { FaFacebookF, FaGithub, FaLinkedinIn } from 'react-icons/fa';
 
 // Using 'type' as requested
 type ContactFormData = {
@@ -78,18 +79,16 @@ const Contactpage = () => {
                         {/* Social Links */}
                         <div className="flex gap-4 pt-10">
                             
-                                <div className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-xs font-bold hover:bg-orange-600 hover:border-orange-600 cursor-pointer transition-all">
-                                   sdgfafd
-                                </div>
-                                <div className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-xs font-bold hover:bg-orange-600 hover:border-orange-600 cursor-pointer transition-all">
-                                   sdgfafd
-                                </div>
-                                <div className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-xs font-bold hover:bg-orange-600 hover:border-orange-600 cursor-pointer transition-all">
-                                   sdgfafd
-                                </div>
-                                <div className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-xs font-bold hover:bg-orange-600 hover:border-orange-600 cursor-pointer transition-all">
-                                   sdgfafd
-                                </div>
+                            <a href='https://www.facebook.com/sk.omer.1257' target='_blank' className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-xs font-bold hover:bg-orange-600 hover:border-orange-600 cursor-pointer transition-all">
+                                <FaFacebookF></FaFacebookF>
+                                </a>
+                            <a href='https://www.linkedin.com/in/omor-dev' target='_blank' className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-xs font-bold hover:bg-orange-600 hover:border-orange-600 cursor-pointer transition-all">
+                                  <FaLinkedinIn></FaLinkedinIn>
+                                </a>
+                            <a  href='https://github.com/omor244' target='_blank' className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-xs font-bold hover:bg-orange-600 hover:border-orange-600 cursor-pointer transition-all">
+                                   <FaGithub></FaGithub>
+                                </a>
+                            
                            
                         </div>
                     </div>
