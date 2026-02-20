@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import React from "react";
+import { FaFacebookF, FaGithub, FaLinkedinIn } from "react-icons/fa";
 
 // Define Types for our Footer Links
 type FooterLink = {
@@ -64,14 +65,22 @@ const Footer = () => {
                         <p className="text-sm leading-relaxed text-slate-400">
                             The ultimate destination for premium electronics, fashion, and lifestyle products. Quality you can trust, delivered to your door.
                         </p>
-                        <div className="flex gap-4">
+                        <div className="flex gap-4 pt-4">
                             {/* Social Icons Placeholder */}
-                            {["facebook", "twitter", "instagram", "linkedin"].map((social) => (
-                                <button key={social} className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-orange-600 hover:text-white transition-all">
-                                    <span className="sr-only">{social}</span>
-                                    <div className="w-5 h-5 bg-current opacity-70" />
-                                </button>
-                            ))}
+                           
+                                                       
+                                                       <a href='https://www.facebook.com/sk.omer.1257' target='_blank' className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-xs font-bold hover:bg-orange-600 hover:border-orange-600 cursor-pointer transition-all">
+                                                           <FaFacebookF></FaFacebookF>
+                                                           </a>
+                                                       <a href='https://www.linkedin.com/in/omor-dev' target='_blank' className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-xs font-bold hover:bg-orange-600 hover:border-orange-600 cursor-pointer transition-all">
+                                                             <FaLinkedinIn></FaLinkedinIn>
+                                                           </a>
+                                                       <a  href='https://github.com/omor244' target='_blank' className="w-10 h-10 rounded-full border border-slate-700 flex items-center justify-center text-xs font-bold hover:bg-orange-600 hover:border-orange-600 cursor-pointer transition-all">
+                                                              <FaGithub></FaGithub>
+                                                           </a>
+                                                       
+                                                      
+                                                  
                         </div>
                     </div>
 

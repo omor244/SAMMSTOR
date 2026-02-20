@@ -24,12 +24,13 @@ The application operates on a modern "Client-Server" hybrid architecture using N
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features & Functionalities
 
-* **Type-Safe Architecture:** Developed using TypeScript `type` aliases to ensure data integrity.
-* **Modern UI/UX:** Styled with Tailwind CSS and daisyUI, featuring glassmorphism and smooth micro-interactions.
-* **Branded Loading:** Custom `loading.tsx` file provides a professional, animated progress experience during data fetching.
-* **Responsive Layout:** A fully fluid design that adapts perfectly to desktop, tablet, and smartphone screens.
+* **Dynamic Product Details:** Interactive product pages that fetch specific data based on URL parameters.
+* **Real-time Filtering:** Efficiently browse products by category or price point without page reloads.
+* **Type-Safe Forms:** A beautiful "Contact Us" page built with strict TypeScript validation for form states.
+* **Branded Loading Experience:** Integrated Next.js `loading.tsx` with a custom-designed progress bar and pulsing logo.
+* **Apple-Inspired Design:** Clean aesthetics utilizing glassmorphism, soft shadows, and custom Tailwind animations.
 
 ---
 
@@ -40,15 +41,18 @@ The application operates on a modern "Client-Server" hybrid architecture using N
 | **Next.js 15** | Core React Framework (App Router) |
 | **TypeScript** | Static Typing & Strict Data Structures |
 | **Tailwind CSS** | Utility-First Styling & Custom Animations |
-| **daisyUI** | Premium Component Library |
-| **React Hooks** | Advanced State & Effect Management |
+| **daisyUI** | Premium Component Library & Modern UI Elements |
+| **React Hooks** | Advanced State (`useState`) & Effect (`useEffect`) Management |
 
 ---
 
 ## 🚀 Getting Started
 
+### Prerequisites
+* Node.js 18.x or higher
+* npm or yarn
+
 ### 1. Clone the repository
 ```bash
 git clone [https://github.com/omor244/SAMMSTOR](https://github.com/omor244/SAMMSTOR)
-cd samm-store
-
+cd SAMMSTOR
