@@ -26,6 +26,8 @@ const Navbar = () => {
                         <li><Link href="/products">Products</Link></li>
                        
                         <li><Link href="/about">About Us</Link></li>
+                     
+                        <li><Link href="/contact">Contact</Link></li>
                     </ul>
                 </div>
 
@@ -61,6 +63,12 @@ const Navbar = () => {
                             About Us
                         </Link>
                     </li>
+                    <li>
+                        <Link href="/contact" className={`${isActive("/about")} hover:text-orange-600 transition-colors`}>
+                            Contact
+                        </Link>
+                    </li>
+                   
                 </ul>
             </div>
 
